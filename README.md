@@ -42,7 +42,7 @@ Introduction
 The environment in which the robot moves is :
 
 <p align="center">
-<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/noetic/images/env.png" width="550" height="400">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/env.png" width="550" height="400">
 </p>
 This represents the point of view from Gazebo, a 3D robot simulator in which we can see the robot moving in a real 3D space. 
 It integrates with ROS using ROS messages, services and dynamic reconfigure.
@@ -50,7 +50,7 @@ It integrates with ROS using ROS messages, services and dynamic reconfigure.
 Whereas :
 
 <p align="center">
-<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/noetic/images/map.png" width="550" height="400">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/map.png" width="550" height="400">
 </p>
 This represents the point of view from Rviz. 
 Rviz is a 3D visualization tool for ROS applications. It offers a view of the robot model, acquires sensor information from the robot sensors, and reproduces the acquired data. It can display data from video cameras, lasers, 3D and 2D devices, including images and point clouds.
