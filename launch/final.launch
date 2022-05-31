@@ -1,6 +1,6 @@
 <launch>
-    <include file="$(find final_assignment)/launch/simulation_gmapping.launch"/>
-    <include file="$(find final_assignment)/launch/move_base.launch"/>
-    <node pkg="final_assignment" type="control" name="control" output="screen" required="true" launch-prefix="xterm -e"/>
+    <include file="$(find RT1_Assignment3)/launch/simulation_gmapping.launch"/>
+    <include file="$(find RT1_Assignment3)/launch/move_base.launch"/>
+    <node pkg="RT1_Assignment3" type="control" name="control" output="screen" required="true" launch-prefix="xterm -e"/>
 </launch>
 

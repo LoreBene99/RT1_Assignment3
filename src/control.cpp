@@ -92,15 +92,15 @@ int main(int argc, char **argv){
 			break; 
 
 			case '1': //launch node1 
-				system("rosrun final_assignment reach"); 
+				system("rosrun RT1_Assignment3 reach"); 
 			break; 
 
 			case '2': //launch node2 
-				system("rosrun final_assignment keyb"); 
+				system("rosrun RT1_Assignment3 keyb"); 
 			break; 
 
 			case '3': //launch node3 
-				system("rosrun final_assignment assistkey"); 
+				system("rosrun RT1_Assignment3 assistkey"); 
 			break; 
 
 			case '4': //reset the simulation 
