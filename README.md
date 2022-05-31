@@ -23,7 +23,6 @@ The Robot Operating System (ROS) is a set of software libraries and tools that h
 and `xterm` (sudo apt install xterm).
 Then you have to create your own ROS workspace and in the src folder you have to:
 * Download the RT1_Assignment3 folder and put it inside the src folder, since the RT1_Assignment3 folder represents the ROS package in which there are the nodes.
-* Switch to branch NOETIC, since it was used the Noetic Release of ROS. 
 * Do catkin_make in the ROOT FOLDER OF YOUR WORKSPACE (Catkin is the official build system of ROS and the successor to the original ROS build system, rosbuild).
 
 At the end, to run the project, i have created a ROS launch file, named final.launch, contained in the launch_file folder : 
