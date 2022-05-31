@@ -215,25 +215,25 @@ Flowchart
 This is an image that show how nodes are connected to each other (thanks to the command rosrun rqt_graph rqt_graph):
 
 <p align="center">
-<img src="https://github.com/LoreBene99/final_assignment/blob/noetic/images/ros.png" width="9000" height="150">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/ros.png" width="9000" height="150">
 </p>
 
 #### reach flowchart
 
 <p align="center">
-<img src="https://github.com/LoreBene99/final_assignment/blob/noetic/images/reach.jpg" width="500" height="600">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/reach.jpg" width="500" height="600">
 </p>
 
 #### keyb flowchart
 
 <p align="center">
-<img src="https://github.com/LoreBene99/final_assignment/blob/noetic/images/keyb.jpg" width="600" height="250">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/keyb.jpg" width="600" height="250">
 </p>
 
 #### assistkey flowchart
 
 <p align="center">
-<img src="https://github.com/LoreBene99/final_assignment/blob/noetic/images/assistkey.jpg" width="500" height="600">
+<img src="https://github.com/LoreBene99/RT1_Assignment3/blob/main/images/assistkey.jpg" width="500" height="600">
 </p>
 
 Conclusions
